@@ -147,7 +147,8 @@ void loop()
 	digitalWrite(MY_LED, LOW);
 
 	// Leave it on for one second
-	delay(1000);
+	// Separator at the end of my last name
+	delay(5000);
 	
     }
     else{
